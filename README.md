@@ -1,47 +1,22 @@
-# Movies-Streaming-Android-App
-An Android application which shows Popular, New Movies, Top Rated movies and all the details of any movie like- Cast, Reviews, Trailer, Similar Movies etc. Worked on making clean and beautifull UI and UX by using latest Google Material Designs.Also this app has register,login page with phone number. All the data has been fetched from "TMDB".
+# Description:
+MovieHub is a feature-rich Android application that offers a seamless movie browsing experience. Users can explore popular, new, and top-rated movies, along with accessing detailed information such as cast, reviews, trailers, and similar movies. The app incorporates clean and beautiful UI/UX designs based on the latest Google Material Design guidelines. Movie data is fetched from the "TMDB" (The Movie Database) API. The app includes a registration and login page with phone number verification. Notable libraries used include Retrofit 2, Glide, Room, RXJava, Lottie, ViewModel, LiveData, DataBinding, Navigation Component, Dexter, Better Video, AnimatedRV, PushDown Button Anim, and Pull Refresh Layout.
 
-# Screenshots
-<table>
-	<tr><td><img src="https://github.com/mojtaba28/Movie-Streaming/blob/main/screenshots/home.png"></td>
-	<td><img src="https://github.com/mojtaba28/Movie-Streaming/blob/main/screenshots/movie_detail.png"></td>
-	<td><img src="https://github.com/mojtaba28/Movie-Streaming/blob/main/screenshots/category.png"></td></tr>
-	<tr><td><img src="https://github.com/mojtaba28/Movie-Streaming/blob/main/screenshots/action.png"></td>
-	<td><img src="https://github.com/mojtaba28/Movie-Streaming/blob/main/screenshots/favorite_list.png"></td>
-	<td><img src="https://github.com/mojtaba28/Movie-Streaming/blob/main/screenshots/search.png"></td></tr>
-	<tr><td><img src="https://github.com/mojtaba28/Movie-Streaming/blob/main/screenshots/profile.png"></td>
-	<td><img src="https://github.com/mojtaba28/Movie-Streaming/blob/main/screenshots/login.png"></td><
-	<td><img src="https://github.com/mojtaba28/Movie-Streaming/blob/main/screenshots/register.png"></td></tr>
-	<tr><td><img src="https://github.com/mojtaba28/Movie-Streaming/blob/main/screenshots/verify.png"></td>
-	<td><img src="https://github.com/mojtaba28/Movie-Streaming/blob/main/screenshots/edit_profile.png"></td>
-	<td><img src="https://github.com/mojtaba28/Movie-Streaming/blob/main/screenshots/change_password.png"></td></tr>
-</table>
+# Key Functionalities:
 
-# Libraries included
-<ul>
-	<li>Material Design</li>
-	<li>Retrofit 2</li>
-	<li>Glide </li>
-	<li>Circle Image View</li>
-	<li>Room</li>
-	<li>RXJava</li>
-	<li>Lottie</li>
-	<li>ViewModel</li>
-	<li>LiveData</li>
-	<li>DataBinding</li>
-	<li>navigation component</li>
-	<li>Dexter</li>
-	<li>Better video</li>
-	<li>Animatedrv</li>
-	<li>PushDown Button Anim</li>
-	<li>Pull Refresh Layout</li>
-	
-	
-</ul>
-
-# Requirements
-<ul>
-	<li>Latest Android SDK Tools and build tools.</li>
-	<li>Minimum OS version required to run the app - API 17 </l>
-	<li>Android SDK</li>
-</ul>
+1. Movie Categories: Users can browse movies categorized as popular, new releases, and top-rated.
+2. Movie Details: Detailed information about each movie is available, including cast, reviews, trailers, and similar movies.
+3. Beautiful UI/UX: The app utilizes the latest Google Material Design principles to ensure a clean and visually appealing user interface.
+4. Registration and Login: Users can register and log in using their phone number, incorporating phone number verification for enhanced security.
+5. TMDB API Integration: Movie data is fetched from the "TMDB" API to provide accurate and up-to-date information.
+6. Material Design Libraries: The app leverages Material Design Libraries for consistent and visually pleasing UI elements.
+7. Image Loading: Glide library is used for efficient loading and caching of movie images, enhancing performance.
+8. Database Integration: Room library enables local storage and caching of movie data for offline access.
+9. Reactive Programming: RXJava is utilized to handle asynchronous tasks and streamline data flow.
+10. Animation and Visual Effects: Lottie, AnimatedRV, and other libraries are employed to add attractive animations and visual effects.
+11. MVVM Architecture: The app follows the Model-View-ViewModel (MVVM) architectural pattern, utilizing ViewModel and LiveData for efficient data management.
+12. Navigation Component: The Navigation Component library simplifies app navigation and enhances user experience.
+13. Video Playback: Better Video library enables smooth video playback within the app for movie trailers.
+14. User Interaction: PushDown Button Anim library enhances button animations, providing a responsive and engaging user interface.
+15. Pull-to-Refresh: The Pull Refresh Layout library enables users to refresh movie lists with a simple pull gesture.
+<br>
+The project demonstrates expertise in Android app development, integration with external APIs, UI/UX design, use of popular libraries, and adherence to best practices for clean and efficient code.
