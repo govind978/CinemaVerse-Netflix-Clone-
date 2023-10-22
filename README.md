@@ -24,7 +24,7 @@ The project demonstrates expertise in Android app development, integration with 
 
 # Here is a demo of the APPLICATION:
 
-![GIF](https://github.com/govind978/Movie-Streaming-Application/assets/68467567/c8fd95d9-908e-4ce3-a17b-e9b5f2ed3a28)
+![GIF](https://github.com/govind978/Movie-Streaming-Application/assets/68467567/16422f85-bc13-4dcc-bc5c-814067d7d6bb)
 
 
 
