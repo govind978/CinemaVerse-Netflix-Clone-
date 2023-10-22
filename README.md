@@ -27,17 +27,3 @@ The project demonstrates expertise in Android app development, integration with 
 ![GIF](https://github.com/govind978/Movie-Streaming-Application/assets/68467567/16422f85-bc13-4dcc-bc5c-814067d7d6bb)
 
 
-
-
-
-
-
-![details](https://github.com/govind978/CinemaVerse-Netflix-Clone-/assets/68467567/1f682056-78d0-4d6d-b7bf-a51bb0767655)
-![search](https://github.com/govind978/CinemaVerse-Netflix-Clone-/assets/68467567/885e8f53-51b9-48bd-a8b0-ea44091be113)
-![cast](https://github.com/govind978/CinemaVerse-Netflix-Clone-/assets/68467567/7304ba5e-b9f4-4106-a7c4-d1a2da2df281)
-![browse](https://github.com/govind978/CinemaVerse-Netflix-Clone-/assets/68467567/d97a8977-7170-48f9-b4cd-63af087b1840)
-![seasons](https://github.com/govind978/CinemaVerse-Netflix-Clone-/assets/68467567/5cb79b98-8fdf-4329-9002-d3ca0297eb14)
-![search](https://github.com/govind978/CinemaVerse-Netflix-Clone-/assets/68467567/e03b977b-2bbd-483b-adbc-0d885daa667b)
-![media](https://github.com/govind978/CinemaVerse-Netflix-Clone-/assets/68467567/25386b4c-c3aa-46bf-9b56-dbb0bf96e91b)
-![library](https://github.com/govind978/CinemaVerse-Netflix-Clone-/assets/68467567/3d67ec77-7ba8-4214-bfc6-244af4236b23)
-![episodes](https://github.com/govind978/CinemaVerse-Netflix-Clone-/assets/68467567/849917a4-0724-4198-8c2e-da6921c64eef)
