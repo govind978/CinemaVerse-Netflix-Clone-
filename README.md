@@ -22,7 +22,16 @@ CineVerse is a feature-rich Android application that offers a seamless movie bro
 <br>
 The project demonstrates expertise in Android app development, integration with external APIs, UI/UX design, use of popular libraries, and adherence to best practices for clean and efficient code.
 
-# Here is an demo of the APPLICATION:
+# Here is a demo of the APPLICATION:
+
+![GIF](https://github.com/govind978/Movie-Streaming-Application/assets/68467567/c8fd95d9-908e-4ce3-a17b-e9b5f2ed3a28)
+
+
+
+
+
+
+
 ![details](https://github.com/govind978/CinemaVerse-Netflix-Clone-/assets/68467567/1f682056-78d0-4d6d-b7bf-a51bb0767655)
 ![search](https://github.com/govind978/CinemaVerse-Netflix-Clone-/assets/68467567/885e8f53-51b9-48bd-a8b0-ea44091be113)
 ![cast](https://github.com/govind978/CinemaVerse-Netflix-Clone-/assets/68467567/7304ba5e-b9f4-4106-a7c4-d1a2da2df281)
